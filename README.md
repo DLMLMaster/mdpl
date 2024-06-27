@@ -7,12 +7,7 @@
   * [Attribution](#attribution)
   
 ## Installation
-
-Download using pip via pypi.
-
 ```bash
-$ pip install mdpl --upgrade
-  or
 $ pip install git+https://github.com/DLMLMaster/mdpl.git
 ```
 (Mac/homebrew users may need to use ``pip3``)
